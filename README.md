@@ -1,4 +1,4 @@
-![Logo](assets/git-head.webp)
+![Logo](assets/git-head_comp.webp)
 
 
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
