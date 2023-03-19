@@ -1,4 +1,4 @@
-![Logo](assets/git-head.gif)
+![Logo](assets/git-head.webp)
 ### Hi there 👋
 
 <!--
