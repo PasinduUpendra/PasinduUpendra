@@ -11,9 +11,9 @@
 
 
 ---
-> # Thumb. Drive.
+> ## Thumb. Drive.
 <p align="right">
-  **Batman**
+  <b>Batman</b>
 </p>
 
 ## I'm Pasindu Upendra from Sri Lanka 🇱🇰
