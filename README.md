@@ -20,9 +20,9 @@
 ### Web | Mobile | WordPress/WooCommerce Developer
 #### Head honcho at [Toad Creatives](https://toadcreatives.com/)    
       
-           
-    
-</br>   
+         
+</br>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fhm72eeianpr6uoy7ekk25a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <p align="center">
 <a href="https://www.linkedin.com/in/pasinduupendra/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=social&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/PasinduUpendra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=social&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
