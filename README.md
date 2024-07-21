@@ -28,4 +28,4 @@
 <a href="https://www.instagram.com/PasinduUpendra/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=social&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
 <a href="https://www.facebook.com/PasinduUpendra" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=social&logo=facebook&logoColor=1877F2" alt="Facebook"></a>
 </p>
-
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22fhm72eeianpr6uoy7ekk25a&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22fhm72eeianpr6uoy7ekk25a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=8cc78a&bar_color_cover=true)]]
