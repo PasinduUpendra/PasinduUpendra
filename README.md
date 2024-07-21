@@ -20,7 +20,7 @@
 ### Web | Mobile | WordPress/WooCommerce Developer
 #### Head honcho at [Toad Creatives](https://toadcreatives.com/)    
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22fhm72eeianpr6uoy7ekk25a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22fhm72eeianpr6uoy7ekk25a&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=22fhm72eeianpr6uoy7ekk25a&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=8cc78a&bar_color_cover=true)]]
 
          
 </br>
